@@ -11,7 +11,7 @@ Ele realiza a conversão de valores de Real (BRL) para Euro (EUR).
 
 ## 💻 Prévia do Projeto
 
-![Preview do projeto](./imagens/preview.png)
+![Preview do projeto](./imagem-projeto-1.PNG)
 
 ## 🚀 Tecnologias utilizadas
 
