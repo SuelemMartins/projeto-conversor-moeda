@@ -4,32 +4,29 @@ A Pen created on CodePen.
 
 Original URL: [https://codepen.io/SuelemMartins/pen/wBvQYKY](https://codepen.io/SuelemMartins/pen/wBvQYKY).
 
-# 💶 Conversor de Moeda - Real para Euro
+# Conversor de Moeda
 
-Este projeto foi desenvolvido durante a **Aula 1 da Imersão Alura** com o objetivo de praticar lógica de programação usando **JavaScript**, **HTML** e **CSS**.
+Este é um projeto desenvolvido durante a Imersão Alura - Aula 1.  
+Ele realiza a conversão de valores de Real (BRL) para Euro (EUR).
 
-A aplicação faz a conversão de valores de **Real (R$)** para **Euro (€)**, utilizando uma taxa de câmbio fixa.
+## 💻 Prévia do Projeto
 
-## ✨ Funcionalidades
+![Preview do projeto](./imagens/preview.png)
 
-- Entrada de valor em Real via `prompt()`
-- Conversão automática para Euro com base em uma taxa pré-definida
-- Exibição do resultado diretamente com `alert()`
-
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Tecnologias utilizadas
 
 - HTML
 - CSS
-- JavaScript (sem manipulação de DOM)
+- JavaScript
 
-## 💡 Aprendizados
+## 📌 Funcionalidade
 
-Durante o desenvolvimento deste projeto, aprendi a:
-- Utilizar `prompt()` e `alert()` para interações simples
-- Trabalhar com variáveis e cálculos em JavaScript
-- Criar um fluxo lógico de entrada, processamento e saída de dados
+O usuário digita um valor em Reais e o sistema retorna o valor convertido em Euros.  
+Este projeto foi feito de forma simples, sem uso do DOM, para focar na lógica da conversão.
 
 ---
+
+✨ Projeto desenvolvido por [@SuelemMartins](https://github.com/SuelemMartins)
 
 Projeto simples, mas feito com dedicação! 💜
 
